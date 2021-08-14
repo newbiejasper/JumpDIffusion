@@ -25,3 +25,13 @@ To use on your own machine, the gene expression data  at four days (four csv fil
 
 Additionally, the embryonic stem cell differentiation dataset is from  [Klein et al. (2015)]( https://pubmed.ncbi.nlm.nih.gov/26000487/)  and is available at [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65525](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65525). 
 
+The four files are linked at:
+
+D0: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599494](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599494).
+
+D2:[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599497](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599497).
+
+D4:[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599498](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599498).
+
+D7:[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599499](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1599499).
+
